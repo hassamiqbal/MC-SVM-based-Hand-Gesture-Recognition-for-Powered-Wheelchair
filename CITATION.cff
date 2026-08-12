@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this software or methodology in academic work, please cite the associated Medical & Biological Engineering & Computing article."
+title: "User-Independent MC-SVM Hand-Gesture Recognition for Powered Wheelchair Control"
+type: software
+version: 1.0.0
+date-released: 2026-08-12
+authors:
+  - family-names: Iqbal
+    given-names: Hassam
+    orcid: "https://orcid.org/0000-0002-1438-9403"
+  - family-names: Zheng
+    given-names: Jinchuan
+  - family-names: Chai
+    given-names: Rifai
+  - family-names: Chandrasekaran
+    given-names: Sivachandran
+repository-code: "https://github.com/hassamiqbal/MC-SVM-based-Hand-Gesture-Recognition-for-Powered-Wheelchair"
+url: "https://doi.org/10.1007/s11517-023-02921-z"
+keywords:
+  - surface electromyography
+  - sEMG
+  - hand gesture recognition
+  - multi-class support vector machine
+  - MC-SVM
+  - powered wheelchair
+  - assistive technology
+  - human-machine interface
+  - machine learning
+  - MATLAB
+preferred-citation:
+  type: article
+  title: "Electric powered wheelchair control using user-independent classification methods based on surface electromyography signals"
+  authors:
+    - family-names: Iqbal
+      given-names: Hassam
+    - family-names: Zheng
+      given-names: Jinchuan
+    - family-names: Chai
+      given-names: Rifai
+    - family-names: Chandrasekaran
+      given-names: Sivachandran
+  journal: "Medical & Biological Engineering & Computing"
+  year: 2024
+  volume: "62"
+  issue: "1"
+  start: 167
+  end: 182
+  doi: "10.1007/s11517-023-02921-z"
+  url: "https://doi.org/10.1007/s11517-023-02921-z"
